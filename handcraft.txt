@@ -1,0 +1,284 @@
+Glistering Melon <- Gold Nugget + Melon
+Glass Bottle <- Glass
+Blaze Powder <- Blaze Rod
+Magma Cream <- Blaze Powder + Slimeball
+Fermented Spider Eye <- Brown Mushroom + Sugar + Spider Eye
+Cauldron <- Iron Ingot
+Brewing Stand <- Blaze Rod + Cobblestone
+Carrot on a Stick <- Fishing Rod + Carrot
+Carrot on a Stick <- DamagedCarrot on a Stick
+Elytra <- DamagedElytra
+Rail <- Iron Ingot + Stick
+Minecart with Chest <- Chest + Minecart
+Powered Rail <- Gold Ingot + Stick + Redstone
+Detector Rail <- Iron Ingot + Stone Pressure Plate + Redstone
+Minecart <- Iron Ingot
+Minecart with TNT <- TNT + Minecart
+Activator Rail <- Iron Ingot + Stick + Redstone Torch
+Minecart with Hopper <- Hopper + Minecart
+Boat <- MatchingWood Planks
+Boat <- MatchingWood Planks + Wooden Shovel
+Minecart with Furnace <- Furnace + Minecart
+Wheat <- Hay Bale
+Bowl <- AnyWood Planks
+Coal <- Block of Coal
+Sugar <- Sugar Canes
+Leather <- Rabbit Hide
+Dandelion Yellow <- Dandelion or Sunflower
+Gray Dye <- Ink Sac + Bone Meal
+Pumpkin Seeds <- Pumpkin
+Gold Nugget <- Gold Ingot
+Gold Ingot <- Block of Gold
+Gold Ingot <- Gold Nugget
+Rose Red <- Poppy or Red Tulip or Rose Bush or Beetroot
+Orange Dye <- Orange Tulip
+Orange Dye <- Rose Red + Dandelion Yellow
+Pink Dye <- Pink Tulip or Peony
+Pink Dye <- Rose Red + Bone Meal
+Lime Dye <- Cactus Green + Bone Meal
+Purple Dye <- Lapis Lazuli + Rose Red
+Cyan Dye <- Lapis Lazuli + Cactus Green
+Light Gray Dye <- Azure Bluet or Oxeye Daisy or White Tulip
+Light Gray Dye <- Ink Sac + Bone Meal
+Light Gray Dye <- Gray Dye + Bone Meal
+Magenta Dye <- Allium or Lilac
+Magenta Dye <- Purple Dye + Pink Dye
+Magenta Dye <- Lapis Lazuli + Bone Meal + Rose Red
+Magenta Dye <- Pink Dye + Rose Red + Lapis Lazuli
+Light Blue Dye <- Blue Orchid
+Light Blue Dye <- Lapis Lazuli + Bone Meal
+Emerald <- Block of Emerald
+Iron Ingot <- Block of Iron
+Iron Ingot <- Iron Nugget
+Lapis Lazuli <- Lapis Lazuli Block
+Bone Meal <- Bone
+Bone Meal <- Bone Block
+Diamond <- Block of Diamond
+Stick <- AnyWood Planks
+Iron Nugget <- Iron Ingot
+Melon Seeds <- Melon
+Sword <- AnyWood Planks or Cobblestone or Iron Ingot or Gold Ingot or Diamond + Stick
+Sword <- Damaged MatchingSword
+Flint and Steel <- Iron Ingot + Flint
+Helmet <- Leather or Gold Ingot or Iron Ingot or Diamond
+Helmet <- Damaged MatchingHelmet
+Chestplate <- Leather or Gold Ingot or Iron Ingot or Diamond
+Chestplate <- Damaged MatchingChestplate
+Leggings <- Leather or Gold Ingot or Iron Ingot or Diamond
+Leggings <- Damaged MatchingLeggings
+Boots <- Leather or Gold Ingot or Iron Ingot or Diamond
+Boots <- Damaged MatchingBoots
+Bow <- Stick + String
+Bow <- DamagedBow
+Shield <- AnyWood Planks + Iron Ingot
+Shield <- DamagedShield
+Shield <- Shield + MatchingBanner
+Arrow <- Flint + Stick + Feather
+Spectral Arrow <- Glowstone Dust + Arrow
+Tipped Arrow <- Arrow + MatchingLingering Potion
+Enchantment Table <- Book + Diamond + Obsidian
+Painting <- Stick + AnyWool
+Torch <- Coal or Charcoal + Stick
+Ladder <- Stick
+Snow (layer) <- Snow
+Jukebox <- AnyWood Planks + Diamond
+Iron Bars <- Iron Ingot
+Wood Fence <- MatchingWood Planks + Stick
+Nether Brick Fence <- Nether Brick
+Glass Pane <- Glass
+Stained Glass Pane <- MatchingStained Glass
+Ender Chest <- Obsidian + Eye of Ender
+Chest <- AnyWood Planks
+Sign <- AnyWood Planks + Stick
+Item Frame <- Stick + Leather
+Cobblestone Wall <- Cobblestone
+Mossy Cobblestone Wall <- Moss Stone
+Flower Pot <- Brick
+Trapped Chest <- Tripwire Hook + Chest
+Slime Block <- Slimeball
+Armor Stand <- Stick + Stone Slab
+Furnace <- Cobblestone
+Carpet <- MatchingWool
+Anvil <- Block of Iron + Iron Ingot
+End Rod <- Blaze Rod + Popped Chorus Fruit
+Purple Shulker Box <- Shulker Shell + Chest
+Shulker Box <- AnyShulker Box + MatchingDye
+Banner <- MatchingWool + Stick
+Banner <- MatchingBanner
+End Crystal <- Glass + Eye of Ender + Ghast Tear
+Crafting Table <- AnyWood Planks
+Bed <- AnyWool + AnyWood Planks
+Flint and Steel <- DamagedFlint and Steel
+Firework Star <- Gunpowder + MatchingDye + Extra ingredients (optional)
+Firework Star <- MatchingFirework Star + AnyDye
+Bucket <- Iron Ingot
+Book <- Paper + Leather
+Slimeball <- Slime Block
+Eye of Ender <- Blaze Powder + Ender Pearl
+Book and Quill <- Book + Ink Sac + Feather
+Written Book <- Book and Quill + Written Book
+Empty Map <- Paper + Compass
+Empty Map <- Paper
+Map(with marker) <- Map + Compass
+Map(zoomed out) <- Paper + Map
+Map(cloned) <- Empty Map + Map
+Fire Charge <- Blaze Powder + Coal or Charcoal + Gunpowder
+Beacon <- Glass + Nether Star + Obsidian
+Firework Rocket <- Paper + Gunpowder
+Firework Rocket <- AnyFirework Star + Paper + Gunpowder
+Paper <- Sugar Canes
+Explorer Map(cloned) <- Empty Map + Ocean Explorer Map or Woodland Explorer Map
+Pickaxe <- AnyWood Planks or Cobblestone or Iron Ingot or Gold Ingot or Diamond + Stick
+Pickaxe <- Damaged MatchingPickaxe
+Shovel <- AnyWood Planks or Cobblestone or Iron Ingot or Gold Ingot or Diamond + Stick
+Shovel <- Damaged MatchingShovel
+Base Fess Banner <- AnyBanner + MatchingDye
+Chief Fess Banner <- AnyBanner + MatchingDye
+Pale Dexter Banner <- AnyBanner + MatchingDye
+Pale Sinister Banner <- AnyBanner + MatchingDye
+Pale Banner <- AnyBanner + MatchingDye
+Fess Banner <- AnyBanner + MatchingDye
+Bend Banner <- AnyBanner + MatchingDye
+Bend Sinister Banner <- AnyBanner + MatchingDye
+Paly Banner <- AnyBanner + MatchingDye
+Saltire Banner <- AnyBanner + MatchingDye
+Cross Banner <- AnyBanner + MatchingDye
+Per Bend Sinister Banner <- AnyBanner + MatchingDye
+Per Bend Banner <- AnyBanner + MatchingDye
+Per Bend Inverted Banner <- AnyBanner + MatchingDye
+Per Bend Sinister Inverted Banner <- AnyBanner + MatchingDye
+Per Pale Banner <- AnyBanner + MatchingDye
+Shears <- Iron Ingot
+Per Pale Inverted Banner <- AnyBanner + MatchingDye
+Per Fess Banner <- AnyBanner + MatchingDye
+Per Fess Inverted Banner <- AnyBanner + MatchingDye
+Base Dexter Canton Banner <- AnyBanner + MatchingDye
+Base Sinister Canton Banner <- AnyBanner + MatchingDye
+Chief Dexter Canton Banner <- AnyBanner + MatchingDye
+Chief Sinister Canton Banner <- AnyBanner + MatchingDye
+Chevron Banner <- AnyBanner + MatchingDye
+Inverted Chevron Banner <- AnyBanner + MatchingDye
+Base Indented Banner <- AnyBanner + MatchingDye
+Shears <- DamagedShears
+Lever <- Stick + Cobblestone
+StoneButton <- Stone
+WoodenButton <- AnyWood Planks
+StonePressure Plate <- Stone
+WoodenPressure Plate <- AnyWood Planks
+Redstone Torch <- Redstone + Stick
+Chief Indented Banner <- AnyBanner + MatchingDye
+Roundel Banner <- AnyBanner + MatchingDye
+Lozenge Banner <- AnyBanner + MatchingDye
+Bordure Banner <- AnyBanner + MatchingDye
+Note Block <- AnyWood Planks + Redstone
+Fence Gate <- Stick + MatchingWood Planks
+Wooden Trapdoor <- AnyWood Planks
+Iron Trapdoor <- Iron Ingot
+Hoe <- AnyWood Planks or Cobblestone or Iron Ingot or Gold Ingot or Diamond + Stick
+Dyed Bordure Indented Banner <- AnyBanner + MatchingDye + Vines
+Dyed Field Masoned Banner <- AnyBanner + MatchingDye + Bricks
+Gradient Banner <- AnyBanner + MatchingDye
+Base Gradient Banner <- AnyBanner + MatchingDye
+Dyed Creeper Charge Banner <- AnyBanner + MatchingDye + Creeper Head
+Redstone <- Block of Redstone
+Tripwire Hook <- Iron Ingot + Stick + AnyWood Planks
+Block of Redstone <- Redstone
+Weighted Pressure Plate (Heavy) <- Iron Ingot
+Weighted Pressure Plate (Light) <- Gold Ingot
+Dropper <- Cobblestone + Redstone
+Redstone Repeater <- Redstone Torch + Redstone + Stone
+Redstone Repeater <- Redstone Torch + Redstone + AnyStone
+Dyed Skull Charge Banner <- AnyBanner + MatchingDye + Wither Skeleton Skull
+Hopper <- Iron Ingot + Chest
+Redstone Lamp <- Redstone + Glowstone
+Daylight Sensor <- Glass + Nether Quartz + AnyWood Slab
+Wood Door <- MatchingWood Planks
+Iron Door <- Iron Ingot
+Dispenser <- Cobblestone + Bow + Redstone
+Piston <- AnyWood Planks + Cobblestone + Iron Ingot + Redstone
+Sticky Piston <- Slimeball + Piston
+Redstone Comparator <- Redstone Torch + Nether Quartz + Stone
+Redstone Comparator <- Redstone Torch + Nether Quartz + AnyStone
+TNT <- Gunpowder + Sand or Red Sand
+Observer <- Cobblestone + Redstone + Nether Quartz
+Dyed Flower Charge Banner <- AnyBanner + MatchingDye + Oxeye Daisy
+Dyed Thing Banner <- AnyBanner + MatchingDye + Enchanted Golden Apple
+Hoe <- Damaged MatchingHoe
+Fishing Rod <- Stick + String
+Fishing Rod <- DamagedFishing Rod
+Axe <- AnyWood Planks or Cobblestone or Iron Ingot or Gold Ingot or Diamond + Stick
+Axe <- Damaged MatchingAxe
+Clock <- Gold Ingot + Redstone
+Compass <- Iron Ingot + Redstone
+Lead <- String + Slimeball
+Block of Quartz <- Nether Quartz
+Chiseled Quartz Block <- Quartz Slab
+Pillar Quartz Block <- Block of Quartz
+Granite <- Diorite + Nether Quartz
+Polished Granite <- Granite
+Sandstone orRed Sandstone <- Sand or Red Sand
+Smooth Sandstone orSmooth Red Sandstone <- Sandstone or Red Sandstone
+Chiseled Sandstone orChiseled Red Sandstone <- Sandstone Slab or Red Sandstone Slab
+Diorite <- Cobblestone + Nether Quartz
+Polished Diorite <- Diorite
+Andesite <- Diorite + Cobblestone
+Polished Andesite <- Andesite
+Block of Gold <- Gold Ingot
+Block of Iron <- Iron Ingot
+Block of Diamond <- Diamond
+Bookshelf <- AnyWood Planks + Book
+Snow <- Snowball
+Clay (block) <- Clay
+Jack o'Lantern <- Pumpkin + Torch
+Glowstone <- Glowstone Dust
+Lapis Lazuli Block <- Lapis Lazuli
+Melon (block) <- Melon
+Moss Stone <- Cobblestone + Vines
+Block of Emerald <- Emerald
+Wood Stairs <- MatchingWood Planks
+Cobblestone Stairs <- Cobblestone
+Brick Stairs <- Bricks
+Stone Brick Stairs <- AnyStone Bricks
+Nether Brick Stairs <- Nether Brick
+Sandstone Stairs <- AnySandstone
+Quartz Stairs <- AnyQuartz Block
+Red Sandstone Stairs <- AnyRed Sandstone
+Purpur Stairs <- AnyPurpur Block
+Purpur Stairs <- Purpur Block
+Stone Bricks <- Stone
+Mossy Stone Bricks <- Stone Bricks + Vines
+Chiseled Stone Bricks <- Stone Bricks Slab
+Nether Brick <- Nether Brick (item)
+Red Nether Brick <- Nether Wart + Nether Brick (item)
+Hay Bale <- Wheat
+Stone Slab <- Stone
+Stone Slab <- AnyStone
+Sandstone Slab <- AnySandstone
+Cobblestone Slab <- Cobblestone
+Bricks Slab <- Bricks
+Stone Bricks Slab <- AnyStone Bricks
+Wood Slab <- MatchingWood Planks
+Nether Brick Slab <- Nether Brick
+Quartz Slab <- AnyQuartz Block
+Red Sandstone Slab <- AnyRed Sandstone
+Purpur Slab <- Purpur Block
+Purpur Slab <- AnyPurpur Block
+Stained Clay <- Hardened Clay + MatchingDye
+Block of Coal <- Coal
+Prismarine <- Prismarine Shard
+Prismarine Bricks <- Prismarine Shard
+Dark Prismarine <- Prismarine Shard + Ink Sac
+Coarse Dirt <- Dirt + Gravel
+Bricks <- Brick
+End Stone Bricks <- End Stone
+Purpur Block <- Popped Chorus Fruit
+Purpur Pillar <- Purpur Slab
+Magma Block <- Magma Cream
+Bone Block <- Bone Meal
+Nether Wart Block <- Nether Wart
+White Wool <- String
+Dyed Wool <- White Wool + MatchingColored Dye
+Wood Planks <- MatchingWood
+Sea Lantern <- Prismarine Shard + Prismarine Crystals
+Concrete Powder(1.12) <- Sand + Gravel + MatchingDye
+Stained Glass <- Glass + MatchingDye
